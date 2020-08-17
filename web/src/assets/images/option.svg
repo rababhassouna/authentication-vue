@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Yes Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Price-Plan" transform="translate(-217.000000, -537.000000)">
+            <g id="Pricing-Table" transform="translate(174.000000, 253.000000)">
+                <g id="Pricing-Option" transform="translate(0.000000, 30.000000)">
+                    <g id="Features" transform="translate(41.000000, 252.000000)">
+                        <g id="Feature">
+                            <g id="Yes-Icon">
+                                <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+                                <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 Z M16.7689447,7.81768175 L10.4229928,14.616916 L7.65079137,12.2407434 C7.23146553,11.8813212 6.60016555,11.9298828 6.2407434,12.3492086 C5.88132125,12.7685345 5.92988278,13.3998345 6.34920863,13.7592566 L9.84920863,16.7592566 C10.2560456,17.107974 10.8654446,17.0740439 11.2310553,16.6823183 L18.2310553,9.18231825 C18.6078892,8.77856757 18.5860689,8.1457787 18.1823183,7.76894473 C17.7785676,7.39211077 17.1457787,7.41393107 16.7689447,7.81768175 Z" id="Combined-Shape" fill="#FA709A"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

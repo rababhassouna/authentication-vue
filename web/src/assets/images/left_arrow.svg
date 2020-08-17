@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-down copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.96514331,7.64203061 L0.208238037,1.88509571 C-0.069412679,1.607445 -0.069412679,1.15730307 0.208238037,0.879681978 L0.879688883,0.208231131 C1.15686564,-0.0689456265 1.60608927,-0.0694788296 1.88391772,0.207046235 L6.46786499,4.76951726 L11.0517826,0.207046235 C11.3296111,-0.0694788296 11.7788347,-0.0689456265 12.0560115,0.208231131 L12.7274623,0.879681978 C13.005113,1.15733269 13.005113,1.60747462 12.7274623,1.88509571 L6.97058667,7.64203061 C6.69293595,7.9196517 6.24279403,7.9196517 5.96514331,7.64203061 Z" id="path-1"></path>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.497509058">
+        <g id="Videos" transform="translate(-1357.000000, -979.000000)">
+            <g id="Group" transform="translate(1136.000000, 971.000000)">
+                <g id="Button">
+                    <g id="chevron-down-copy-5" transform="translate(225.000000, 14.500000) rotate(-90.000000) translate(-225.000000, -14.500000) translate(218.500000, 10.500000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#464855" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

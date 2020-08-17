@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="129px" viewBox="0 0 35 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Price-Plan" transform="translate(-1198.000000, -253.000000)">
+            <g id="Pricing-Table" transform="translate(174.000000, 253.000000)">
+                <g id="Pricing-Option" transform="translate(553.000000, 0.000000)">
+                    <g id="Bg">
+                        <g id="Group-3" transform="translate(471.000000, 0.000000)">
+                            <path d="M18.125,114 L17.9409917,114 L0,129 L0,114 L0,0 L35,0 L35,114 L35,129 L18.125,114 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                            <text id="Best-choice" transform="translate(19.500000, 56.642177) rotate(90.000000) translate(-19.500000, -56.642177) " font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#FA709A">
+                                <tspan x="-20.561" y="62.1421771">Best choice</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
